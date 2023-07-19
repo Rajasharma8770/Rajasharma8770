@@ -1,3 +1,5 @@
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
 <h1 align="center">Hi 👋, I'm RAJA RAM SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width='400' src="https://global-uploads.webflow.com/5e2d970a86f417102b21abd2/63d38ff86b40d6d019165f73_How%20to%20become%20a%20front%20end%20developer.svg"/>
