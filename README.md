@@ -1,4 +1,4 @@
-<img src="Raja-Banner.png"/>
+<img src="RajaBanner.png"/>
 
 <h1 align="center">Hi 👋, I'm RAJA RAM SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
